@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #cc5959;
+  text-align: center;
+}
+
+.container {
+  margin-top: 50px;
+}
+
+h1 {
+  color: #333;
+}
+.hooks-list{
+  list-style-type: none;
+  padding: 0;
+ 
+}
+.hooks-list-element{
+  padding: 10px;
+  background-color: black;
+   margin: 10px 20px;
+   border-radius: 6px;
+}
+.hook-links{
+  text-decoration: none;
+  color: white;
+}
